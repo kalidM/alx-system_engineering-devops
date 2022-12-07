@@ -1,0 +1,2 @@
+#!/binybash
+PATH=$PATH:/action
